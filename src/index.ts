@@ -2,6 +2,7 @@
 // Write a function that will only accept numbers and attend to 
 // all TypeScript weakness flags.
 // : number
+import "../index.css"
 const reviewTotalDisplay = document.querySelector('#reviews')
 
 const reviews = [
